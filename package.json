@@ -1,0 +1,29 @@
+{
+  "name": "prop-styles",
+  "version": "1.0.0",
+  "description": "Higher Order Component for organizing style groups in a react Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "organize",
+    "props",
+    "styles",
+    "modules",
+    "react",
+    "redux"
+  ],
+  "author": "Darren Thompson",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^2.8.0",
+    "eslint-config-airbnb": "^7.0.0",
+    "eslint-plugin-jsx": "0.0.2",
+    "eslint-plugin-jsx-a11y": "^0.6.2",
+    "eslint-plugin-react": "^4.3.0",
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
